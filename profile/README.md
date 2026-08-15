@@ -1,5 +1,5 @@
-# Controlled Chaos Design Builds
+# CCDzine Builds
 
-A place for projects that I built for general use rather than for personal or client use.
+A place for Controlled Chaos Design projects built for general use rather than for personal or client use.
 
 My other profile is [@ControlledChaos](https://github.com/ControlledChaos).
